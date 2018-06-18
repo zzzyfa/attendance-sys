@@ -1,0 +1,4 @@
+LT123;ayw123;Au Yit Wah;Chinese;Male;0182326102;auyitwah@gmail.com;UC1F1701IT, UCDF1509BIT;VBN, MTK;
+LT456;jack123;Jackie Lee;Taiwanese;Male;0182329087;jacklee@gmail.com;UC1F1702BIS, UC3F1609ISS;NS, PSMOD;
+LT789;tony123;Tony Hendra;Indonesian;Male;0187654087;tonyhendra@hotmail.com;UC1F1703EBM, UCDF1611BF;BSTAT, ACC;
+LT889;dina123;Dina Rachmi;Malaysian;Female;0198998765;rachmidina@gmail.com;UC1F1702BIS, UC1F1703EBM;NS, PSMOD

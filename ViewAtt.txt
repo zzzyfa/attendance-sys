@@ -1,0 +1,5 @@
+VB.Net;85.7%;12;2
+Numerical Skills;76%;10;3
+Business Economics;78.5%;11;3
+Networks and Networking;92%;13;1
+Malaysian Studies;84.6%;11;2

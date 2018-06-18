@@ -1,0 +1,5 @@
+TP123;Akbar Malik;Absent with reason;
+TP789;Celine Dion;Late;
+TP132;Ellen Lee;Present;
+TP266;Rini Dwi Septyiani;Absent;
+TP982;Roni Kurniawan;Present;
