@@ -1,6 +1,9 @@
 # Attendance Management System
 
-This was a Java individual class assignment from APU. 
+- This was a Java individual class assignment from APU, in the form of desktop application. 
+
+- More explanations and screenshots can be seen in the documentation: oodj_assyfa.docx
+
 
 The three types of users of this system:
 1. Admin
